@@ -15,3 +15,8 @@ var myVar = "Hello, world!";
 ```$ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+Here is a list:
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introdce myslef to the world
